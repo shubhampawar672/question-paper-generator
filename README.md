@@ -26,6 +26,27 @@ Install dependencies:
 npm install
 
 
+Setup MongoDB Connection
+
+
+Before running the application, you need to set up your MongoDB connection. Follow the steps below:
+
+Create a .env file in the root directory of the project.
+
+Open the .env file and add your MongoDB connection URL in the following format:
+
+env
+
+
+MONGODB_URI=<your_mongodb_connection_url>
+
+Replace <your_mongodb_connection_url> with your actual MongoDB connection URL.
+
+
+Save the .env file.
+
+
+
 Running the Application
 
 1. Upload Questions
