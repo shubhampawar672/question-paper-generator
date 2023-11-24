@@ -12,7 +12,7 @@ Setup
 
 Clone the repository:
 
-git clone <repository_url>
+git clone <https://github.com/shubhampawar672/question-paper-generator.git>
 cd question-paper-generator
 
 
