@@ -2,7 +2,7 @@
 
 A Node.js application for generating question papers based on given difficulty distribution.
 
-Prerequisites
+**Prerequisites**
 
 Make sure you have the following installed on your machine:
 
@@ -12,7 +12,7 @@ npm
 
 MongoDB
 
-Setup
+**Setup**
 
 Clone the repository:
 
@@ -21,12 +21,12 @@ git clone <https://github.com/shubhampawar672/question-paper-generator.git>
 cd question-paper-generator
 
 
-Install dependencies:
+**Install dependencies**
 
 npm install
 
 
-Setup MongoDB Connection
+**Setup MongoDB Connection**
 
 
 Before running the application, you need to set up your MongoDB connection. Follow the steps below:
@@ -47,7 +47,7 @@ Save the .env file.
 
 
 
-Running the Application
+**Running the Application**
 
 1. Upload Questions
 To upload questions, make a POST request to:
@@ -96,10 +96,11 @@ Use the following JSON format in the request body:
     { "difficulty": "Hard", "percentage": 60 }
   ]
 }
-Running the Application
+
+**Running the Application**
 
 
-Start the application using:
+**Start the application using:**
 
 node app.js
 
