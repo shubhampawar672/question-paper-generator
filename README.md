@@ -53,11 +53,14 @@ Use the following JSON format in the request body:
 ]
 
 2. Get All Questions
+   
 To retrieve all questions, make a GET request to:
 
 http://localhost:3000/api/questions
 
 3. Generate Question Paper
+
+
 To generate a question paper, make a POST request to:
 
 http://localhost:3000/api/generate
@@ -73,9 +76,13 @@ Use the following JSON format in the request body:
   ]
 }
 Running the Application
+
+
 Start the application using:
 
 node app.js
+
+
 The server will be running on either port 5000 or 3000 (check console logs for details).
 
 Author
