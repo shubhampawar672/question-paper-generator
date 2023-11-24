@@ -1,0 +1,8 @@
+{
+    "totalMarks": 100,
+    "difficultyDistribution": [
+      { "difficulty": "Easy", "percentage": 20 },
+      { "difficulty": "Medium", "percentage": 50 },
+      { "difficulty": "Hard", "percentage": 30 }
+    ]
+  }

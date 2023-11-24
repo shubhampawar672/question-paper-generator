@@ -1,0 +1,143 @@
+[
+    {
+      "question": "What is the capital of Japan?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "subject": "History",
+      "topic": "Maritime Disasters",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "subject": "Biology",
+      "topic": "Animals",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the square root of 144?",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "subject": "Art",
+      "topic": "Artists",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the speed of light?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Who is the current president of the United States?",
+      "subject": "Politics",
+      "topic": "World Leaders",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the main function of the lungs in the human body?",
+      "subject": "Anatomy",
+      "topic": "Respiratory System",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Which ocean is the largest on Earth?",
+      "subject": "Geography",
+      "topic": "Oceans",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "subject": "Chemistry",
+      "topic": "Physical Properties",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "subject": "Medicine",
+      "topic": "Medical Discoveries",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "subject": "Biology",
+      "topic": "Cells",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "In which year did World War II end?",
+      "subject": "History",
+      "topic": "World War II",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Medium",
+      "marks": 10
+    }
+  ]
+  
